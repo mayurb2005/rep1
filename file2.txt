@@ -1,1 +1,0 @@
-This is lab 3 for git. And this is the file no. 2.
