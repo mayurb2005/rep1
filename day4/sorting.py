@@ -2,7 +2,7 @@ import sys
 
 def insertion_sort(strings):
     for i in range(1,len(input_list)):
-        element=strings[i].lower()
+        element=strings[i]
         j=i-1
         while j>=0 and element.lower()<strings[j].lower():
             strings[j+1]=strings[j]
